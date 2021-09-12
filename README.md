@@ -1,3 +1,8 @@
+# Below commands are used for this react front end app
+
+### `sudo npm install axios --save` to install axios
+### `npm install immutability-helper --save` to install immunity helper
+### `yarn --cwd todo-app start` to start the application
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
