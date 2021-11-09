@@ -6,7 +6,7 @@
 # Getting Started with Create React App
 # Application starts running on http://localhost:3001/
 
-#PORT=4000 npm start
+# PORT=4000 npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
