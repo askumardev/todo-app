@@ -1,7 +1,9 @@
 # Below commands are used for this react front end app
 
 `sudo npm install axios --save` to install axios
+#
 `npm install immutability-helper --save` to install immunity helper
+#
 `yarn --cwd todo-app start` to start the application
 
 PORT=4000 npm start
