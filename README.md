@@ -7,6 +7,7 @@
 `yarn --cwd todo-app start` to start the application
 
 PORT=4000 npm start
+* Sample *
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
